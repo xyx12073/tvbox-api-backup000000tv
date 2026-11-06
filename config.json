@@ -45,14 +45,16 @@
   "apiDomains": [
     { "tag": "备份线路1", "base": "https://ym.120733.xyz/tvbox/" }
   ],
+  "apiDomains": [
   { "tag": "备份线路2", "base": "https://ym.xyx8601.dpdns.org/tvbox/" }
- 
+ ],
 
   "liveDomains": [
     { "tag": "备份线路1", "base": "https://ym.120733.xyz/tvbox/live/" }
   ],
+  "liveDomains": [
 { "tag": "备份线路2", "base": "https://ym.xyx8601.dpdns.org/tvbox/live/" }
- 
+ ],
 
   "apiWeights": {
     "轮替占位.json": 1, "神马都没有.json": 2, "饭太硬.json": 4, "肥猫.json": 5,
@@ -115,4 +117,4 @@
     "list": "list.txt",
     "live": "livelist.txt"
   }
-
+}
