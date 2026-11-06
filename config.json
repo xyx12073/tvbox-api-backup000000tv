@@ -43,11 +43,11 @@
   },
 
   "apiDomains": [
-    { "tag": "备份线路1", "base": "https://ym.120733.xyz/tvbox/" }
+    { "tag": "备份线路", "base": "https://ym.120733.xyz/tvbox/" }
   ],
   
   "liveDomains": [
-    { "tag": "备份线路1", "base": "https://ym.120733.xyz/tvbox/live/" }
+    { "tag": "备份线路", "base": "https://ym.120733.xyz/tvbox/live/" }
   ],
 
   "apiWeights": {
