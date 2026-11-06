@@ -45,16 +45,10 @@
   "apiDomains": [
     { "tag": "备份线路1", "base": "https://ym.120733.xyz/tvbox/" }
   ],
-  "apiDomains": [
-  { "tag": "备份线路2", "base": "https://ym.xyx8601.dpdns.org/tvbox/" }
- ],
-
+  
   "liveDomains": [
     { "tag": "备份线路1", "base": "https://ym.120733.xyz/tvbox/live/" }
   ],
-  "liveDomains": [
-{ "tag": "备份线路2", "base": "https://ym.xyx8601.dpdns.org/tvbox/live/" }
- ],
 
   "apiWeights": {
     "轮替占位.json": 1, "神马都没有.json": 2, "饭太硬.json": 4, "肥猫.json": 5,
@@ -82,8 +76,6 @@
   "liveAggregate": {
     "title": "海量直播聚合多线路专用接口",
     "url": "https://https://ym.120733.xyz/tvbox/海量直播聚合接口.json"
-  },
-"ur2": "https://https://ym.xyx8601.dpdns.org/tvbox/海量直播聚合接口.json"
   },
 
   "downloadSources": [
